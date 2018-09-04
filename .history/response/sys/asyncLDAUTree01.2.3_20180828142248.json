@@ -1,0 +1,108 @@
+{
+    "data": {
+        "childDepartments": [
+            {
+                "childDepartments": null,
+                "indexCode": "bcfcba4827a0497794dead3b2395cc66",
+                "name": "滨江区",
+                "users": null
+            },
+            {
+                "childDepartments": null,
+                "indexCode": "310018",
+                "name": "西湖区",
+                "users": null
+            }
+        ],
+        "indexCode": "3ee38aafdd534ef59ca32843a8539d03",
+        "name": null,
+        "users": [
+            {
+                "realName": "",
+                "phone": "",
+                "name": "zjf",
+                "id": "e9635644d7c04671a6cb21dee5344576"
+            },
+            {
+                "realName": "",
+                "phone": "",
+                "name": "zl",
+                "id": "2c6c278cdfa14f8f943a5aa8ae4c6376"
+            },
+            {
+                "realName": "",
+                "phone": "",
+                "name": "zl2",
+                "id": "c3b94c81204b45a08da717b5bbdbd1ff"
+            },
+            {
+                "realName": "",
+                "phone": "",
+                "name": "yy",
+                "id": "573f39ba39784e3a8efe7da121dcaec8"
+            },
+            {
+                "realName": "",
+                "phone": "",
+                "name": "hyp2",
+                "id": "e101e9f1121740e590390a3893c3faa3"
+            },
+            {
+                "realName": "",
+                "phone": "18258176957",
+                "name": "hyp1",
+                "id": "7440407e2a814db3a6b2beafab039e75"
+            },
+            {
+                "realName": "刘稳·买买提哈哈哈迪丽热巴哈哈",
+                "phone": "",
+                "name": "liuwen",
+                "id": "fc5c954d0aae475b95b65a446152825e"
+            },
+            {
+                "realName": "",
+                "phone": "",
+                "name": "zjf_new",
+                "id": "7c1dc85d7934408e8f4c06ef6a0f6757"
+            },
+            {
+                "realName": "",
+                "phone": "",
+                "name": "csf",
+                "id": "9fae4c4d4dbf4fbead74673386f8709a"
+            },
+            {
+                "realName": "",
+                "phone": "",
+                "name": "zl666",
+                "id": "030a150c25b44eb99f3b38141b84b492"
+            },
+            {
+                "realName": "",
+                "phone": "",
+                "name": "ccc",
+                "id": "367062f413d548cdb5850cba067592e1"
+            },
+            {
+                "realName": "",
+                "phone": "",
+                "name": "cmr",
+                "id": "31d8302d446e419e98809250692e0819"
+            },
+            {
+                "realName": "",
+                "phone": "",
+                "name": "zl3",
+                "id": "6cabd19427a14a45b78b6409b2f63f2c"
+            }
+        ]
+    },
+    "list": null,
+    "msgMap": null,
+    "page": null,
+    "result": {
+        "msg": "操作成功",
+        "ret": 0
+    },
+    "type": null
+}

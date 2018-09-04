@@ -1,0 +1,41 @@
+{
+    "data": {
+        "caremaIndexCodes": "1,2",
+        "caremaNames": "01,02",
+        "controlDetail": "0.8-00:00-23:59",
+        "controlMan": "admin",
+        "createTimeStr": "2018-07-23 09:46:41",
+        "details": [
+            {
+                "endPeriod": "23:59",
+                "startPeriod": "00:00",
+                "thresholdMax": 1,
+                "thresholdMin": 0.8
+            }
+        ],
+        "endTimeStr": "2018-07-23 09:46:41",
+        "id": 195,
+        "isShared": 1,
+        "libIds": "10",
+        "libNames": "1234",
+        "multiUserId": "1,2",
+        "multiUserName": "01,02",
+        "name": "布控等级二级",
+        "remark": "",
+        "smsUserIds": "1,2",
+        "smsUserNames": "01,02",
+        "smsStatus": 0,
+        "startTimeStr": "2018-07-23 09:46:41",
+        "status": 1,
+        "topNum": 5,
+        "validPeriod": 5
+    },
+    "list": null,
+    "msgMap": null,
+    "page": null,
+    "result": {
+        "msg": "操作成功",
+        "ret": 0
+    },
+    "type": "data"
+}

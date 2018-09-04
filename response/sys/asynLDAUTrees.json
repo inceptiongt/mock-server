@@ -1,0 +1,23 @@
+{
+    "data": {
+        "childDepartments": [
+            {
+                "childDepartments": null,
+                "indexCode": "538e8390e92a429ca7fdd1adc1632cf9",
+                "name": "市局",
+                "users": null
+            }
+        ],
+        "indexCode": "0",
+        "name": null,
+        "users": []
+    },
+    "list": null,
+    "msgMap": null,
+    "page": null,
+    "result": {
+        "msg": "操作成功",
+        "ret": 0
+    },
+    "type": null
+}

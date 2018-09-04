@@ -1,0 +1,145 @@
+{
+    "data": null,
+    "list": [
+        {
+            "describe": "",
+            "humanCount": 15,
+            "listLibId": 12,
+            "listLibName": "111111aw12",
+            "typeId": 2
+        },
+        {
+            "describe": "",
+            "humanCount": 1637,
+            "listLibId": 10,
+            "listLibName": "1234",
+            "typeId": 2
+        },
+        {
+            "describe": "",
+            "humanCount": 0,
+            "listLibId": 22,
+            "listLibName": "4444",
+            "typeId": 2
+        },
+        {
+            "describe": "",
+            "humanCount": 2,
+            "listLibId": 2,
+            "listLibName": "caonima",
+            "typeId": 2
+        },
+        {
+            "describe": null,
+            "humanCount": 0,
+            "listLibId": 999999,
+            "listLibName": "fms.java.init.withdrawalLibName",
+            "typeId": 2
+        },
+        {
+            "describe": "全部共享",
+            "humanCount": 0,
+            "listLibId": 24,
+            "listLibName": "hik_bk_library",
+            "typeId": 2
+        },
+        {
+            "describe": "布控审核权限测试使用",
+            "humanCount": 0,
+            "listLibId": 25,
+            "listLibName": "hik_bk_library2",
+            "typeId": 2
+        },
+        {
+            "describe": "",
+            "humanCount": 0,
+            "listLibId": 26,
+            "listLibName": "hik_bk_library3",
+            "typeId": 2
+        },
+        {
+            "describe": "beizhun",
+            "humanCount": 0,
+            "listLibId": 18,
+            "listLibName": "mjj_test",
+            "typeId": 2
+        },
+        {
+            "describe": "",
+            "humanCount": 215,
+            "listLibId": 11,
+            "listLibName": "mojiujia",
+            "typeId": 2
+        },
+        {
+            "describe": "",
+            "humanCount": 213,
+            "listLibId": 8,
+            "listLibName": "test",
+            "typeId": 2
+        },
+        {
+            "describe": "",
+            "humanCount": 0,
+            "listLibId": 9,
+            "listLibName": "test2",
+            "typeId": 2
+        },
+        {
+            "describe": "",
+            "humanCount": 1538,
+            "listLibId": 7,
+            "listLibName": "xx",
+            "typeId": 2
+        },
+        {
+            "describe": "",
+            "humanCount": 1534,
+            "listLibId": 4,
+            "listLibName": "xxx",
+            "typeId": 2
+        },
+        {
+            "describe": "",
+            "humanCount": 100,
+            "listLibId": 5,
+            "listLibName": "xxxx",
+            "typeId": 2
+        },
+        {
+            "describe": "",
+            "humanCount": 1237,
+            "listLibId": 6,
+            "listLibName": "xxxxx",
+            "typeId": 2
+        },
+        {
+            "describe": "",
+            "humanCount": 1642,
+            "listLibId": 16,
+            "listLibName": "yxk测试黑1",
+            "typeId": 2
+        },
+        {
+            "describe": "",
+            "humanCount": 1642,
+            "listLibId": 17,
+            "listLibName": "yxk测试黑2",
+            "typeId": 2
+        },
+        {
+            "describe": "",
+            "humanCount": 0,
+            "listLibId": 23,
+            "listLibName": "yxk测试黑3",
+            "typeId": 2
+        }
+    ],
+    "msgMap": null,
+    "page": null,
+    "result": {
+        "msg": "操作成功",
+        "ret": 0
+    },
+    "type": "list"
+}

@@ -1,0 +1,38 @@
+{
+    "data": {
+        "caremaIndexCodes": "34020000002000000013",
+        "caremaNames": "asf_test",
+        "controlDetail": "0.8-00:00-23:59",
+        "controlMan": "admin",
+        "createTimeStr": "2018-07-23 09:46:41",
+        "details": [
+            {
+                "endPeriod": "23:59",
+                "startPeriod": "00:00",
+                "thresholdMax": 1,
+                "thresholdMin": 0.8
+            }
+        ],
+        "endTimeStr": "3018-07-23 09:46:41",
+        "id": 195,
+        "isShared": 0,
+        "libIds": "10",
+        "libNames": "1234",
+        "multiUserId": null,
+        "multiUserName": null,
+        "name": "布控等级二级",
+        "remark": "",
+        "startTimeStr": "2018-07-23 09:46:41",
+        "status": 1,
+        "topNum": 5,
+        "validPeriod": 5
+    },
+    "list": null,
+    "msgMap": null,
+    "page": null,
+    "result": {
+        "msg": "操作成功",
+        "ret": 0
+    },
+    "type": "data"
+}

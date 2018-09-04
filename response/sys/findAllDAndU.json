@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "childDepartments": null,
+            "indexCode": "538e8390e92a429ca7fdd1adc1632cf9",
+            "name": "市局",
+            "users": [
+                {
+                    "realName": "admin",
+                    "phone": null,
+                    "name": "01",
+                    "id": "1"
+                },
+                {
+                    "realName": "",
+                    "phone": "1355555555",
+                    "name": "02",
+                    "id": "2"
+                },
+                {
+                    "realName": "",
+                    "phone": "13888888888",
+                    "name": "lyb",
+                    "id": "test2"
+                }
+            ]
+        }
+    ],
+    "list": null,
+    "msgMap": null,
+    "page": null,
+    "result": {
+        "msg": "fms.java.common.constant.success",
+        "ret": 0
+    }
+}

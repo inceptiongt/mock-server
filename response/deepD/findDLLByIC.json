@@ -1,0 +1,60 @@
+{
+    "data": null,
+    "list": [
+        {
+            "ableEdit": true,
+            "batchIds": null,
+            "cascadeDevice": 0,
+            "cascadeLibId": null,
+            "cascadeNode": null,
+            "cascadePlatformDown": 0,
+            "cascadePlatformUp": 0,
+            "createTime": null,
+            "createUserId": "1",
+            "createUserName": "admin",
+            "describe": "",
+            "humanCount": 0,
+            "indexCodes": null,
+            "isShared": 1,
+            "listLibId": "ff80808163ce9af20163d2ddb7c40004",
+            "listLibIds": null,
+            "listLibName": "hypbuild4test",
+            "multiUserId": null,
+            "multiUserName": null,
+            "picUrl": null,
+            "platformCodes": null,
+            "typeId": 2
+        },
+        {
+            "ableEdit": true,
+            "batchIds": null,
+            "cascadeDevice": 0,
+            "cascadeLibId": null,
+            "cascadeNode": null,
+            "cascadePlatformDown": 0,
+            "cascadePlatformUp": 0,
+            "createTime": null,
+            "createUserId": "1",
+            "createUserName": "admin",
+            "describe": "fsafe",
+            "humanCount": 0,
+            "indexCodes": null,
+            "isShared": 0,
+            "listLibId": "ff80808163ce9af20163f2a090f4000a",
+            "listLibIds": null,
+            "listLibName": "wefwaef wa",
+            "multiUserId": null,
+            "multiUserName": null,
+            "picUrl": null,
+            "platformCodes": null,
+            "typeId": 2
+        }
+    ],
+    "msgMap": null,
+    "page": null,
+    "result": {
+        "msg": "操作成功",
+        "ret": 0
+    },
+    "type": "list"
+}

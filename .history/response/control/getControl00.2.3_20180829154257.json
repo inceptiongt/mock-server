@@ -1,0 +1,57 @@
+{
+    "data": {
+        "ableEdit": true,
+        "businessId": null,
+        "caremaIndexCodes": "22010000001310924456",
+        "caremaNames": "超脑_C#4中间对南照射",
+        "cascadeControlId": null,
+        "cascadeNode": null,
+        "compareType": 1,
+        "controlDetail": "0.8-1-00:00-17:59",
+        "controlMan": "admin",
+        "controlMode": null,
+        "controlType": "6",
+        "controlledPersonId": null,
+        "controlledPersonName": null,
+        "controlledPersonUrl": null,
+        "createTimeStr": "2018-06-13 17:26:36",
+        "createUserId": "1",
+        "data": null,
+        "details": [
+            {
+                "endPeriod": "17:59",
+                "startPeriod": "00:00",
+                "thresholdMax": 1,
+                "thresholdMin": 0.8
+            }
+        ],
+        "endTimeStr": "3018-06-13 17:26:36",
+        "id": 47,
+        "isCascade": "0",
+        "isShared": 0,
+        "libIds": "ff80808163ce9af20163d2ddb7c40004",
+        "libNames": "hypbuild4test",
+        "multiUserId": null,
+        "multiUserName": null,
+        "name": "小王的测试布控",
+        "pushCascadeCodes": null,
+        "pushNodes": null,
+        "remark": "",
+        "smsPhones": "",
+        "smsStatus": 1,
+        "smsUsers": "",
+        "startTimeStr": "1970-01-01 08:00:00",
+        "status": 1,
+        "topNum": 2,
+        "url": null,
+        "validPeriod": 5
+    },
+    "list": null,
+    "msgMap": null,
+    "page": null,
+    "result": {
+        "msg": "操作成功",
+        "ret": 0
+    },
+    "type": "data"
+}

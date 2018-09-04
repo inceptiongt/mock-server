@@ -1,0 +1,203 @@
+{
+    "ret": 0,
+    "msg": "操作成功",
+    "data": [
+        {
+            "cameraTotal": 4,
+            "cameras": null,
+            "childRegions": [
+                {
+                    "cameraTotal": 4,
+                    "cameras": null,
+                    "childRegions": [
+                        {
+                            "cameraTotal": 1,
+                            "cameras": null,
+                            "childRegions": [
+                                {
+                                    "cameraTotal": 1,
+                                    "cameras": [
+                                        {
+                                            "ableEdit": true,
+                                            "cameraId": 7,
+                                            "cameraIp": "33.33.33.33",
+                                            "cameraName": "荔湾区街道口抓拍机",
+                                            "cameraPort": "8000",
+                                            "cameraType": "110",
+                                            "cascadeCameraId": null,
+                                            "cascadeNode": null,
+                                            "cascadeState": "0",
+                                            "channelNo": "3",
+                                            "data": null,
+                                            "indexCode": "44010300001310967950",
+                                            "latitude": "",
+                                            "longitude": "",
+                                            "password": "1DB07EF70C7CFE407344016B99286F1C",
+                                            "pdRank": null,
+                                            "pushNodes": null,
+                                            "regionId": 21,
+                                            "regionIndexCode": "440103",
+                                            "relatedCamera": "",
+                                            "relatedCameraName": null,
+                                            "url": null,
+                                            "username": "admin"
+                                        }
+                                    ],
+                                    "childRegions": null,
+                                    "indexCode": "440103",
+                                    "leaf": false,
+                                    "parentId": null,
+                                    "parentIndexCode": "440100",
+                                    "regionId": 21,
+                                    "regionName": "荔湾区"
+                                }
+                            ],
+                            "indexCode": "440100",
+                            "leaf": false,
+                            "parentId": null,
+                            "parentIndexCode": "440000",
+                            "regionId": 14,
+                            "regionName": "广州市"
+                        },
+                        {
+                            "cameraTotal": 3,
+                            "cameras": [
+                                {
+                                    "ableEdit": true,
+                                    "cameraId": 6,
+                                    "cameraIp": "22.22.22.22",
+                                    "cameraName": "阳江市某街道抓拍机1",
+                                    "cameraPort": "8000",
+                                    "cameraType": "110",
+                                    "cascadeCameraId": null,
+                                    "cascadeNode": null,
+                                    "cascadeState": "0",
+                                    "channelNo": "2",
+                                    "data": null,
+                                    "indexCode": "44170000001310900858",
+                                    "latitude": "",
+                                    "longitude": "",
+                                    "password": "1DB07EF70C7CFE407344016B99286F1C",
+                                    "pdRank": null,
+                                    "pushNodes": null,
+                                    "regionId": 15,
+                                    "regionIndexCode": "441700",
+                                    "relatedCamera": "",
+                                    "relatedCameraName": null,
+                                    "url": null,
+                                    "username": "admin"
+                                }
+                            ],
+                            "childRegions": [
+                                {
+                                    "cameraTotal": 1,
+                                    "cameras": null,
+                                    "childRegions": [
+                                        {
+                                            "cameraTotal": 1,
+                                            "cameras": [
+                                                {
+                                                    "ableEdit": true,
+                                                    "cameraId": 5,
+                                                    "cameraIp": "11.11.11.11",
+                                                    "cameraName": "阳西县某街道口抓拍机1",
+                                                    "cameraPort": "8000",
+                                                    "cameraType": "110",
+                                                    "cascadeCameraId": null,
+                                                    "cascadeNode": null,
+                                                    "cascadeState": "0",
+                                                    "channelNo": "11",
+                                                    "data": null,
+                                                    "indexCode": "44172100001310988444",
+                                                    "latitude": "",
+                                                    "longitude": "",
+                                                    "password": "1DB07EF70C7CFE407344016B99286F1C",
+                                                    "pdRank": null,
+                                                    "pushNodes": null,
+                                                    "regionId": 20,
+                                                    "regionIndexCode": "44172100",
+                                                    "relatedCamera": "",
+                                                    "relatedCameraName": null,
+                                                    "url": null,
+                                                    "username": "admin"
+                                                }
+                                            ],
+                                            "childRegions": null,
+                                            "indexCode": "44172100",
+                                            "leaf": false,
+                                            "parentId": null,
+                                            "parentIndexCode": "441721",
+                                            "regionId": 20,
+                                            "regionName": "阳西县公安局"
+                                        }
+                                    ],
+                                    "indexCode": "441721",
+                                    "leaf": false,
+                                    "parentId": null,
+                                    "parentIndexCode": "441700",
+                                    "regionId": 17,
+                                    "regionName": "阳西县"
+                                },
+                                {
+                                    "cameraTotal": 1,
+                                    "cameras": [
+                                        {
+                                            "ableEdit": true,
+                                            "cameraId": 4,
+                                            "cameraIp": "10.00.11.11",
+                                            "cameraName": "阳东县某街道抓拍机1",
+                                            "cameraPort": "8000",
+                                            "cameraType": "110",
+                                            "cascadeCameraId": null,
+                                            "cascadeNode": null,
+                                            "cascadeState": "0",
+                                            "channelNo": "1",
+                                            "data": null,
+                                            "indexCode": "44172300001310991721",
+                                            "latitude": "",
+                                            "longitude": "",
+                                            "password": "1DB07EF70C7CFE407344016B99286F1C",
+                                            "pdRank": null,
+                                            "pushNodes": null,
+                                            "regionId": 9,
+                                            "regionIndexCode": "441723",
+                                            "relatedCamera": "",
+                                            "relatedCameraName": null,
+                                            "url": null,
+                                            "username": "admin"
+                                        }
+                                    ],
+                                    "childRegions": null,
+                                    "indexCode": "441723",
+                                    "leaf": false,
+                                    "parentId": null,
+                                    "parentIndexCode": "441700",
+                                    "regionId": 18,
+                                    "regionName": "阳东县"
+                                }
+                            ],
+                            "indexCode": "441700",
+                            "leaf": false,
+                            "parentId": null,
+                            "parentIndexCode": "440000",
+                            "regionId": 15,
+                            "regionName": "阳江市"
+                        }
+                    ],
+                    "indexCode": "440000",
+                    "leaf": false,
+                    "parentId": null,
+                    "parentIndexCode": "0",
+                    "regionId": 13,
+                    "regionName": "广东省"
+                }
+            ],
+            "indexCode": "0",
+            "leaf": false,
+            "parentId": null,
+            "parentIndexCode": "-1",
+            "regionId": 1,
+            "regionName": "主控制中心"
+        }
+    ]
+}

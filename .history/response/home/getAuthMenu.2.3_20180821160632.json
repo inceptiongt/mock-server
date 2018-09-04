@@ -1,0 +1,133 @@
+{
+    "eportal": "10.67.189.4:443",
+    "children": [
+        {
+            "authCode": "FAS_030000",
+            "label": "以脸搜脸",
+            "url": "/web/index.action?m=snapshot#snapshot"
+        },
+        {
+            "authCode": "FAS_010000",
+            "label": "人脸查询",
+            "url": "/web/index.action?m=faceSearch#faceSearch"
+        },
+        {
+            "authCode": "FAS_020000",
+            "label": "身份确认",
+            "url": "/web/index.action?m=identity#identity"
+        },
+        {
+            "authCode": "FAS_090000",
+            "label": "人脸查重",
+            "url": "/web/index.action?m=faceDuplicate#faceDuplicate"
+        },
+        {
+            "authCode": "FAS_100000",
+            "label": "人脸碰撞",
+            "url": "/web/index.action?m=faceCollision#faceCollision"
+        },
+        {
+            "authCode": "FAS_110000",
+            "label": "以脸搜证",
+            "url": "/web/index.action?m=identification#identification"
+        },
+        {
+            "authCode": "FAS_120000",
+            "label": "人脸数据分析",
+            "url": "/web/index.action?m=dataAnalysis#dataAnalysis"
+        },
+        {
+            "authCode": "FAS_130000",
+            "label": "频繁过人",
+            "url": "/web/index.action?m=frequently#frequently"
+        },
+        {
+            "authCode": "FAS_140000",
+            "label": "同行人分析",
+            "url": "/web/index.action?m=together#together"
+        },
+        {
+            "authCode": "FAS_150000",
+            "label": "人员落脚点",
+            "url": "/web/index.action?m=foothold#foothold"
+        },
+        {
+            "authCode": "FAS_160000",
+            "label": "管控人员查询",
+            "url": "/web/index.action?m=controlQuery#controlQuery"
+        },
+        {
+            "authCode": "FAS_170000",
+            "label": "实时分析",
+            "url": "/web/index.action?m=realtimeAnalysis#realtimeAnalysis"
+        },
+        {
+            "authCode": "FAS_180000",
+            "label": "录像分析",
+            "url": "/web/index.action?m=videoAnalysis#videoAnalysis"
+        },
+        {
+            "authCode": "FAS_190000",
+            "label": "管控人员分析",
+            "url": "/web/index.action?m=controlAnalysis#controlAnalysis"
+        },
+        {
+            "authCode": "FAS_200000",
+            "label": "管控实时抓拍",
+            "url": "/web/index.action?m=personnelControl#personnelControl"
+        },
+        {
+            "authCode": "FAS_210000",
+            "label": "管控数据统计",
+            "url": "/web/index.action?m=controlStatistics#controlStatistics"
+        }
+    ],
+    "auth": {
+        "METIS_000000": true
+    },
+    "label": "慧视人脸应用系统",
+    "apolloServer": "https://10.67.189.4:443",
+    "user": {
+        "cardId": null,
+        "cascadeDomainCode": null,
+        "cascadePwd": null,
+        "cascadeSync": 0,
+        "code": "admin",
+        "createTime": 1379320437000,
+        "deprecatedPwd": null,
+        "deptIndexCode": "3ee38aafdd534ef59ca32843a8539d03",
+        "email": "admin@126.com",
+        "expireTime": 4070880000000,
+        "extendDeptAuth": 0,
+        "id": "1",
+        "ipAddress": null,
+        "ipSegment": null,
+        "lastLoginTime": 1534837454345,
+        "lastLoginTimeTransfer": null,
+        "lastLoginType": 0,
+        "lastPwdModifiedTime": 1528371152342,
+        "loginStrategy": 0,
+        "loginTimes": 4646,
+        "loginType": 0,
+        "macAddress": null,
+        "name": "admin",
+        "nowLoginTime": 1534837655266,
+        "onlineNumber": 0,
+        "orgIndexCode": "0",
+        "ownerUserId": "1",
+        "persist": 1,
+        "phone": null,
+        "priority": 50,
+        "pwd": "f8aa14da2301e201e817f5b8667a36bb40c8ca49da69b3470a74d0f4ec194961",
+        "realName": "admin",
+        "remark": null,
+        "shortLetter": "admin",
+        "shortNum": null,
+        "spellings": "ADMIN",
+        "status": 1,
+        "tickable": 0,
+        "updateTime": 1524035737622,
+        "userExts": {},
+        "weight": 0
+    }
+}

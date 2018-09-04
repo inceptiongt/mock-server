@@ -1,0 +1,77 @@
+{
+    "children": [
+        {
+            "authCode": "FMS_010000",
+            "label": "名单管理",
+            "url": "/web/index.action?m=human#human"
+        },
+        {
+            "authCode": "FMS_020000",
+            "label": "资源管理",
+            "url": "/web/index.action?m=resource#resource"
+        },
+        {
+            "authCode": "FMS_030000",
+            "label": "布控管理",
+            "url": "/web/index.action?m=control#control"
+        },
+        {
+            "authCode": "FMS_100000",
+            "label": "系统配置",
+            "url": "/web/index.action?m=system#system"
+        },
+        {
+            "authCode": "FMS_040000",
+            "label": "服务管理",
+            "url": "/web/index.action?m=configuration#configuration"
+        }
+    ],
+    "auth": {
+        "METIS_000000": true
+    },
+    "label": "慧视人脸管理系统",
+    "apolloServer": "https://10.67.189.4:443",
+    "user": {
+        "cardId": null,
+        "cascadeDomainCode": null,
+        "cascadePwd": null,
+        "cascadeSync": 0,
+        "code": "admin",
+        "createTime": 1379320437000,
+        "deprecatedPwd": null,
+        "deptIndexCode": "3ee38aafdd534ef59ca32843a8539d03",
+        "email": "admin@126.com",
+        "expireTime": 4070880000000,
+        "extendDeptAuth": 0,
+        "id": "1",
+        "ipAddress": null,
+        "ipSegment": null,
+        "lastLoginTime": 1535352297866,
+        "lastLoginTimeTransfer": null,
+        "lastLoginType": 0,
+        "lastPwdModifiedTime": 1528371152342,
+        "loginStrategy": 0,
+        "loginTimes": 4706,
+        "loginType": 0,
+        "macAddress": null,
+        "name": "admin",
+        "nowLoginTime": 1535352802056,
+        "onlineNumber": 0,
+        "orgIndexCode": "0",
+        "ownerUserId": "1",
+        "persist": 1,
+        "phone": null,
+        "priority": 50,
+        "pwd": "f8aa14da2301e201e817f5b8667a36bb40c8ca49da69b3470a74d0f4ec194961",
+        "realName": "admin",
+        "remark": null,
+        "shortLetter": "admin",
+        "shortNum": null,
+        "spellings": "ADMIN",
+        "status": 1,
+        "tickable": 0,
+        "updateTime": 1524035737622,
+        "userExts": {},
+        "weight": 0
+    }
+}

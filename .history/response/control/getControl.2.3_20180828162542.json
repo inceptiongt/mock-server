@@ -1,0 +1,61 @@
+{
+    "data": {
+        "ableEdit": true,
+        "businessId": null,
+        "caremaIndexCodes": "31010000001310012572",
+        "caremaNames": "Camera 01",
+        "cascadeControlId": null,
+        "cascadeNode": null,
+        "compareType": 2,
+        "controlDetail": "0.4-0.8-00:00-23:59",
+        "controlMan": "admin",
+        "controlMode": null,
+        "controlType": "0",
+        "controlledPersonId": null,
+        "controlledPersonName": null,
+        "controlledPersonUrl": null,
+        "createTimeStr": "2018-06-07 18:59:48",
+        "createUserId": "1",
+        "data": null,
+        "details": [
+            {
+                "endPeriod": "23:59",
+                "startPeriod": "00:00",
+                "thresholdMax": 0.8,
+                "thresholdMin": 0.4
+            }
+        ],
+        "endTimeStr": "3018-06-07 18:59:48",
+        "id": 30,
+        "isCascade": "0",
+        "isShared": 1,
+        "isPhoneAuto": 1,
+        "libIds": "ff80808163ce9af20163d8e4b8b30008",
+        "libNames": "sxl2",
+        "multiUserId": "e9635644d7c04671a6cb21dee5344576",
+        "multiUserName": "zjf",
+        "name": "我也饿",
+        "phoneUserIds": "e9635644d7c04671a6cb21dee5344576",
+        "phoneUserNames": "zjf",
+        "phoneMessageText": "测试",
+        "pushCascadeCodes": "",
+        "pushNodes": null,
+        "remark": "",
+        "smsPhones": "18258176957",
+        "smsStatus": 0,
+        "smsUsers": "hyp1",
+        "startTimeStr": "1970-01-01 08:00:00",
+        "status": 1,
+        "topNum": 1,
+        "url": null,
+        "validPeriod": 5
+    },
+    "list": null,
+    "msgMap": null,
+    "page": null,
+    "result": {
+        "msg": "操作成功",
+        "ret": 0
+    },
+    "type": "data"
+}

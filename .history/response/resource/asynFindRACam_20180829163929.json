@@ -1,0 +1,27 @@
+{
+    "ret": 0,
+    "msg": "操作成功",
+    "data": {
+        "cameraTotal": 0,
+        "cameras": [],
+        "childRegions": [
+            {
+                "cameraTotal": 0,
+                "cameras": null,
+                "childRegions": null,
+                "indexCode": "0",
+                "leaf": true,
+                "parentId": null,
+                "parentIndexCode": "-1",
+                "regionId": 1,
+                "regionName": "主控制中心"
+            }
+        ],
+        "indexCode": "-1",
+        "leaf": false,
+        "parentId": null,
+        "parentIndexCode": null,
+        "regionId": 0,
+        "regionName": null
+    }
+}

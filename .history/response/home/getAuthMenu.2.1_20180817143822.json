@@ -1,0 +1,81 @@
+{
+    "children": [
+        {
+            "authCode": "FMS_100000",
+            "label": "fms.file.fmsxml.menu.fms10Name",
+            "url": "/web/index.action?m=system#system"
+        },
+        {
+            "authCode": "FMS_040000",
+            "label": "fms.file.fmsxml.menu.fms04Name",
+            "url": "/web/index.action?m=configuration#configuration"
+        },
+        {
+            "authCode": "FMS_050000",
+            "label": "任务管理",
+            "url": "/asyncTrainJob/index.action"
+        },
+        {
+            "authCode": "FMS_210000",
+            "label": "预警推送统计",
+            "url": "/warningStatistics/index.action"
+        },
+        {
+            "authCode": "FMS_510000",
+            "label": "数据监控",
+            "url": "/operation/index.action"
+        }
+    ],
+    "auth": {
+        "METIS_000000": true
+    },
+    "label": "fms.file.fmsxml.appSystem.name",
+    "apolloServer": "http://10.33.42.165:80",
+    "user": {
+        "cardId": "",
+        "cascadeDomainCode": null,
+        "cascadePwd": null,
+        "cascadeSync": 0,
+        "code": "admin",
+        "createTime": 1379320437000,
+        "deprecatedPwd": null,
+        "deptIndexCode": "081ad9a1bdf3458bbb031987535d5659",
+        "email": "admin@126.com",
+        "expireTime": 4070880000000,
+        "extendDeptAuth": 0,
+        "id": "1",
+        "ipAddress": null,
+        "ipSegment": null,
+        "lastLoginTime": 1533084117328,
+        "lastLoginTimeTransfer": null,
+        "lastLoginType": 0,
+        "lastPwdModifiedTime": 1520212995916,
+        "loginStrategy": 0,
+        "loginTimes": 5844,
+        "loginType": 0,
+        "macAddress": null,
+        "name": "admin",
+        "nowLoginTime": 1533086206358,
+        "onlineNumber": 0,
+        "orgIndexCode": "0",
+        "ownerUserId": "1",
+        "persist": 1,
+        "phone": "13254213621",
+        "priority": 50,
+        "pwd": "8f0a06ebd27f187d9f98ffd78cbe56ed8b340f3f1948d1587a7511875c517c1c",
+        "realName": "admin",
+        "remark": "",
+        "shortLetter": "admin",
+        "shortNum": null,
+        "spellings": "ADMIN",
+        "status": 1,
+        "tickable": 0,
+        "updateTime": 1521707236210,
+        "userExts": {
+            "checkUser": "1",
+            "staticsearchcount": "100",
+            "wChart": "123456789"
+        },
+        "weight": 0
+    }
+}

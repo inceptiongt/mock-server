@@ -1,0 +1,115 @@
+{
+    "data": [
+        {
+            "childDepartments": [
+                {
+                    "childDepartments": [
+                        {
+                            "indexCode": "3564e0db1fe34bb5be949d7da6b83d3c",
+                            "name": "并将",
+                            "users": [
+                                {
+                                    "id": "c3c65e7820ba4ad8b1cc08211dfda684",
+                                    "name": "cccc",
+                                    "realName": ""
+                                },
+                                {
+                                    "id": "77befcc626ae469ea97988f3a42f4029",
+                                    "name": "zhuangzheng",
+                                    "realName": ""
+                                },
+                                {
+                                    "id": "8c1eae9934e14ecfa669291dca42819f",
+                                    "name": "zhuangzheng1",
+                                    "realName": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "indexCode": "0952f8f026624dae9978b42b1882178d",
+                    "name": "区",
+                    "users": [
+                        {
+                            "id": "4a34b34aedc946778b9554d97eb6ca75",
+                            "name": "zj",
+                            "realName": ""
+                        },
+                        {
+                            "id": "2768dce38b10460bb054730a269a8b81",
+                            "name": "syu",
+                            "realName": ""
+                        }
+                    ]
+                },
+                {
+                    "indexCode": "226154c237744cfb9dfe0ed307f045fb",
+                    "name": "测试"
+                }
+            ],
+            "indexCode": "0c81e5f58d9443288ee1e4787c4cef3b",
+            "name": "市局",
+            "users": [
+                {
+                    "id": "1",
+                    "name": "admin",
+                    "realName": "admin"
+                },
+                {
+                    "id": "794b436f649f44d193b287188608520a",
+                    "name": "woshimenhu",
+                    "realName": ""
+                },
+                {
+                    "id": "c90c1827bde243d29fa90b3e5016066e",
+                    "name": "woshimenhu2",
+                    "realName": ""
+                },
+                {
+                    "id": "cca99cb880b84c1cbe0a351db12e4409",
+                    "name": "woshihuishou1",
+                    "realName": ""
+                },
+                {
+                    "id": "a1e7d9ae80714bb0803215a46dc01624",
+                    "name": "woshijingxiaoshang1",
+                    "realName": ""
+                },
+                {
+                    "id": "d36ef9f1482c4d6aa3c34c16855ab44b",
+                    "name": "woshigongan",
+                    "realName": ""
+                },
+                {
+                    "id": "34e5c46756de494fa29f215d95f169aa",
+                    "name": "woshihuanbao",
+                    "realName": ""
+                },
+                {
+                    "id": "ea6e2a20c2dc41bfa064917cc08fd9f9",
+                    "name": "test",
+                    "realName": ""
+                },
+                {
+                    "id": "15b02cbd42294e57828b45e2aa6bc459",
+                    "name": "nomjj",
+                    "realName": ""
+                },
+                {
+                    "id": "b7f26985f0f1446e8eb7cd727ca32e11",
+                    "name": "yesmjj",
+                    "realName": ""
+                },
+                {
+                    "id": "763797f5c1244bca845b752430716555",
+                    "name": "wangxiangtest",
+                    "realName": ""
+                }
+            ]
+        }
+    ],
+    "result": {
+        "msg": "操作成功",
+        "ret": 0
+    },
+    "type": "data"
+}

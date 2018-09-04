@@ -1,0 +1,57 @@
+{
+    "data": {
+        "ableEdit": true,
+        "businessId": null,
+        "caremaIndexCodes": "ZPJ15270745187760009911",
+        "caremaNames": "178",
+        "cascadeControlId": null,
+        "cascadeNode": null,
+        "controlDetail": "0.8-00:00-23:59",
+        "controlMan": "hik_bk",
+        "controlMode": null,
+        "controlType": null,
+        "createTimeStr": "2018-08-15 13:58:16",
+        "createUserId": "3fcf0121fdcf417b9a61bb53f47a30e9",
+        "data": null,
+        "details": [
+            {
+                "endPeriod": "23:59",
+                "startPeriod": "00:00",
+                "thresholdMax": 1,
+                "thresholdMin": 0.8
+            }
+        ],
+        "endTimeStr": "3018-08-15 13:58:16",
+        "id": 263,
+        "isCascade": null,
+        "isShared": 1,
+        "libIds": "10",
+        "libNames": "1234",
+        "multiUserId": "1,2",
+        "multiUserName": "01,02",
+        "name": "hik_bk_tuihui",
+        "pushCascadeCodes": null,
+        "pushNodes": null,
+        "reason": null,
+        "remark": "",
+        "reviewStatus": null,
+        "reviewerId": "1",
+        "reviewerName": "admin",
+        "smsPhones": "13555555555,13888888888",
+        "smsStatus": 0,
+        "smsUsers": "01,02",
+        "startTimeStr": "1970-01-01 08:00:00",
+        "status": 1,
+        "topNum": 5,
+        "url": null,
+        "validPeriod": 5
+    },
+    "list": null,
+    "msgMap": null,
+    "page": null,
+    "result": {
+        "msg": "操作成功",
+        "ret": 0
+    },
+    "type": "data"
+}
