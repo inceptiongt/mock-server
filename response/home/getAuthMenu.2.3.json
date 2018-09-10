@@ -25,36 +25,6 @@
             "authCode": "FAS_100000",
             "label": "人脸碰撞",
             "url": "/web/index.action?m=faceCollision#faceCollision"
-        },
-        {
-            "authCode": "FAS_110000",
-            "label": "以脸搜证",
-            "url": "/web/index.action?m=identification#identification"
-        },
-        {
-            "authCode": "FAS_120000",
-            "label": "人脸数据分析",
-            "url": "/web/index.action?m=dataAnalysis#dataAnalysis"
-        },
-        {
-            "authCode": "FAS_130000",
-            "label": "频繁过人",
-            "url": "/web/index.action?m=frequently#frequently"
-        },
-        {
-            "authCode": "FAS_140000",
-            "label": "同行人分析",
-            "url": "/web/index.action?m=together#together"
-        },
-        {
-            "authCode": "FAS_150000",
-            "label": "人员落脚点",
-            "url": "/web/index.action?m=foothold#foothold"
-        },
-        {
-            "authCode": "FAS_160000",
-            "label": "管控人员查询",
-            "url": "/web/index.action?m=controlQuery#controlQuery"
         }
     ],
     "auth": {

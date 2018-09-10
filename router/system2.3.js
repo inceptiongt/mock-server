@@ -23,6 +23,23 @@ app.use('/system/lib/asynLoadDeptAndUserTree.action', function (req, res) {
     })
 });
 
+app.get('/system/asynFindRegionsCameras.action', function (req, res) {
+    var { regionId } = req.query
+    regionId = parseInt(regionId)
+    var path = ''
+    if ( regionId == 1) {
+        path = './response/sys/asynFRC00.2.3.json'
+    } else if (regionId == 2 || regionId == 10) {
+        path = './response/sys/asynFRC01.2.3.json'
+    }
+    else {
+        path = './response/sys/asynFRC2.3.json'
+    }
+    fs.readFile(path, function(e, d){
+        res.json(JSON.parse(d))
+    })
+});
+
 
 app.use('/system/findAllDepartmentAndUsers.action', function (req, res) {
     fs.readFile('./response/sys/findAllDAndU.json', function(e, d){

@@ -1,0 +1,44 @@
+{
+    "data": {
+        "cameraTotal": 0,
+        "cameras": [],
+        "childRegions": [
+            {
+                "cameraTotal": 0,
+                "cameras": null,
+                "childRegions": null,
+                "indexCode": "44",
+                "leaf": true,
+                "parentId": null,
+                "parentIndexCode": "0",
+                "regionId": 2,
+                "regionName": "广东省"
+            },
+            {
+                "cameraTotal": 0,
+                "cameras": null,
+                "childRegions": null,
+                "indexCode": "110000",
+                "leaf": true,
+                "parentId": null,
+                "parentIndexCode": "0",
+                "regionId": 10,
+                "regionName": "北京市"
+            }
+        ],
+        "indexCode": "0",
+        "leaf": false,
+        "parentId": null,
+        "parentIndexCode": null,
+        "regionId": 1,
+        "regionName": null
+    },
+    "list": null,
+    "msgMap": null,
+    "page": null,
+    "result": {
+        "msg": "操作成功",
+        "ret": 0
+    },
+    "type": null
+}
