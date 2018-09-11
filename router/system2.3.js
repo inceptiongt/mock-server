@@ -10,7 +10,8 @@ app.use('/system/findAllRegionAndCameras.action', function (req, res) {
     })
 });
 
-app.use('/system/lib/asynLoadDeptAndUserTree.action', function (req, res) {
+app.use('/system/*/asynLoadDeptAndUserTree.action', function (req, res) {
+    // * 兼容lib/hasphone
     var path = ""
     var {deptIndexCode} = req.query
     if (deptIndexCode) {
@@ -29,7 +30,7 @@ app.get('/system/asynFindRegionsCameras.action', function (req, res) {
     var path = ''
     if ( regionId == 1) {
         path = './response/sys/asynFRC00.2.3.json'
-    } else if (regionId == 2 || regionId == 10) {
+    } else if (regionId == 2 ) {
         path = './response/sys/asynFRC01.2.3.json'
     }
     else {

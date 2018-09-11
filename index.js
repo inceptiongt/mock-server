@@ -29,6 +29,11 @@ app.use('/1.5/f*s', [control, humanRouter, resourceRouter, systemRouter, home])
 app.use('/2.1/f*s', [home, sysRouter_2_1, control_2_1, resource_2_1, human_2_1])
 app.use('/2.3/f*s', [sysRouter_2_3, home_2_3, faceSearchRouter_2_3, control_2_3, human_2_3, deep_2_3, resource_2_3])
 
+//默认其他接口直接返回
+app.all('*', function(req, res, next) {
+  res.status(200).send("ojbk")
+})
+
 app.listen(3000, function () {
   console.log('Example app listening on port 3000!');
 });
