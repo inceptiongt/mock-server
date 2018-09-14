@@ -1,5 +1,3 @@
-
-
 var fs = require('fs')
 var express = require('express');
 var app = express();
@@ -56,6 +54,12 @@ app.use('/system/hasphone/findAllDepartmentAndUsers.action', function (req, res)
 });
 app.use('/system/verifyConfiguration.action', function (req, res) {
     fs.readFile('./response/sys/verifyCOnf.json', function(e, d){
+        res.json(JSON.parse(d))
+    })
+});
+
+app.post('/system/findProvinces.action', function (req, res) {
+    fs.readFile('./response/sys/findProvinces.2.3.json', function(e, d){
         res.json(JSON.parse(d))
     })
 });

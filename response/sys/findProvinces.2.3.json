@@ -1,0 +1,136 @@
+{
+    "data": null,
+    "list": [
+        {
+            "regionName": "北京市",
+            "regionid": "110000"
+        },
+        {
+            "regionName": "天津市",
+            "regionid": "120000"
+        },
+        {
+            "regionName": "河北省",
+            "regionid": "130000"
+        },
+        {
+            "regionName": "山西省",
+            "regionid": "140000"
+        },
+        {
+            "regionName": "内蒙古自治区",
+            "regionid": "150000"
+        },
+        {
+            "regionName": "辽宁省",
+            "regionid": "210000"
+        },
+        {
+            "regionName": "吉林省",
+            "regionid": "220000"
+        },
+        {
+            "regionName": "黑龙江省",
+            "regionid": "230000"
+        },
+        {
+            "regionName": "上海市",
+            "regionid": "310000"
+        },
+        {
+            "regionName": "江苏省",
+            "regionid": "320000"
+        },
+        {
+            "regionName": "浙江省",
+            "regionid": "330000"
+        },
+        {
+            "regionName": "安徽省",
+            "regionid": "340000"
+        },
+        {
+            "regionName": "福建省",
+            "regionid": "350000"
+        },
+        {
+            "regionName": "江西省",
+            "regionid": "360000"
+        },
+        {
+            "regionName": "山东省",
+            "regionid": "370000"
+        },
+        {
+            "regionName": "河南省",
+            "regionid": "410000"
+        },
+        {
+            "regionName": "湖北省",
+            "regionid": "420000"
+        },
+        {
+            "regionName": "湖南省",
+            "regionid": "430000"
+        },
+        {
+            "regionName": "广东省",
+            "regionid": "440000"
+        },
+        {
+            "regionName": "广西壮族自治区",
+            "regionid": "450000"
+        },
+        {
+            "regionName": "海南省",
+            "regionid": "460000"
+        },
+        {
+            "regionName": "重庆市",
+            "regionid": "500000"
+        },
+        {
+            "regionName": "四川省",
+            "regionid": "510000"
+        },
+        {
+            "regionName": "贵州省",
+            "regionid": "520000"
+        },
+        {
+            "regionName": "云南省",
+            "regionid": "530000"
+        },
+        {
+            "regionName": "西藏自治区",
+            "regionid": "540000"
+        },
+        {
+            "regionName": "陕西省",
+            "regionid": "610000"
+        },
+        {
+            "regionName": "甘肃省",
+            "regionid": "620000"
+        },
+        {
+            "regionName": "青海省",
+            "regionid": "630000"
+        },
+        {
+            "regionName": "宁夏回族自治区",
+            "regionid": "640000"
+        },
+        {
+            "regionName": "新疆维吾尔自治区",
+            "regionid": "650000"
+        }
+    ],
+    "msgMap": null,
+    "page": null,
+    "result": {
+        "msg": "操作成功",
+        "ret": 0
+    },
+    "type": "list"
+}

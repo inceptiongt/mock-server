@@ -73,5 +73,6 @@
         "updateTime": 1524035737622,
         "userExts": {},
         "weight": 0
-    }
+    },
+    "checkUser": false
 }

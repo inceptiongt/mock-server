@@ -8,4 +8,16 @@ app.post('/human/findAccessListLibs.action', function (req, res) {
     })
 });
 
+app.post('/human/findListLibs.action', function (req, res) {
+    fs.readFile('./response/human/findListLibs.json', function(e, d){
+        res.json(JSON.parse(d))
+    })
+});
+
+app.post('/human/pageHumans.action', function (req, res) {
+    fs.readFile('./response/human/pageHumans.2.3.json', function(e, d){
+        res.json(JSON.parse(d))
+    })
+});
+
 module.exports = app;
