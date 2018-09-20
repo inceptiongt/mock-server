@@ -3,7 +3,8 @@ var fs = require('fs')
 var express = require('express');
 var app = express();
 
-app.get('/resource/asynFindRegAndCameras.action', function (req, res) {
+// *号兼容asynFindRegAndCameras和asynFindRegAndCamerasForWhiteCtrl
+app.get('/resource/asynFindRegAndCameras(ForWhiteCtrl)?.action', function (req, res) {
     var { indexCode } = req.query
     var path = ''
     if ( indexCode == 0) {

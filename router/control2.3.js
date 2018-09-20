@@ -3,7 +3,7 @@ var express = require('express');
 var app = express();
 
 
-app.post('/control/pageControls.action', function (req, res) {
+app.post('/control/page(Approval)?Controls.action', function (req, res) {
     var body = req.body
     var { analysisWay } = body
     var path = ''
