@@ -1,0 +1,21 @@
+{
+    "response": {
+        "total": 1,
+        "success": true,
+        "count": 0,
+        "errorCode": "",
+        "list": [
+            {
+                "deviceType": 0,
+                "latitude": "",
+                "name": "主控制中心",
+                "pId": "-1",
+                "id": "0",
+                "type": "CONTROL_UNIT",
+                "longitude": "",
+                "seqIdx": 0
+            }
+        ],
+        "message": ""
+    }
+}

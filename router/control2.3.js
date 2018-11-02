@@ -3,14 +3,15 @@ var express = require('express');
 var app = express();
 
 
-app.post('/control/page(Approval)?Controls.action', function (req, res) {
+app.use('/control/page(Approval)?Controls.action', function (req, res) {
     var body = req.body
     var { analysisWay } = body
+    var {search} = req.query
     var path = ''
-    if ( parseInt(analysisWay) === 0) {
+    if ( parseInt(analysisWay) === 0 || search != '') {
         path = './response/control/pageControls00.2.3.json'
     } else {
-        path = './response/control/pageControls.2.3.json'
+       path = './response/control/pageControls.2.3.json'
     }
     fs.readFile(path, function(e, d){
         res.json(JSON.parse(d))

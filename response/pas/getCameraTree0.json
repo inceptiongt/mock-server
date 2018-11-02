@@ -1,0 +1,71 @@
+{
+    "response": {
+        "total": 6,
+        "success": true,
+        "count": 0,
+        "errorCode": "",
+        "list": [
+            {
+                "deviceType": 0,
+                "latitude": "",
+                "name": "天津市",
+                "pId": "0",
+                "id": "12",
+                "type": "CONTROL_UNIT",
+                "longitude": "",
+                "seqIdx": 1
+            },
+            {
+                "deviceType": 0,
+                "latitude": "",
+                "name": "cc",
+                "pId": "0",
+                "id": "11000000002160419159",
+                "type": "REGION_INFO",
+                "longitude": "",
+                "seqIdx": 0
+            },
+            {
+                "deviceType": 3,
+                "latitude": "30.230946827661",
+                "name": "10.17.82.66",
+                "pId": "0",
+                "id": "00000000P20180508151948074",
+                "type": "CAMERA_INFO",
+                "longitude": "120.07640132373",
+                "seqIdx": 43
+            },
+            {
+                "deviceType": 3,
+                "latitude": "30.203268179321",
+                "name": "md1",
+                "pId": "0",
+                "id": "00000000P20180517154459801",
+                "type": "CAMERA_INFO",
+                "longitude": "120.1015672699",
+                "seqIdx": 45
+            },
+            {
+                "deviceType": 3,
+                "latitude": "30.204984793091",
+                "name": "md2",
+                "pId": "0",
+                "id": "00000000P20180517154517140",
+                "type": "CAMERA_INFO",
+                "longitude": "120.09246921692",
+                "seqIdx": 46
+            },
+            {
+                "deviceType": 2,
+                "latitude": "30.231935629272",
+                "name": "fsddg",
+                "pId": "0",
+                "id": "00000000P20180517165957572",
+                "type": "CAMERA_INFO",
+                "longitude": "120.09058094177",
+                "seqIdx": 47
+            }
+        ],
+        "message": ""
+    }
+}

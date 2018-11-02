@@ -1,0 +1,26 @@
+[
+    {
+        "authCode": "PAS_010000",
+        "code": "pas01",
+        "name": "数据展示",
+        "url": "/index.html"
+    },
+    {
+        "authCode": "PAS_020000",
+        "code": "pas02",
+        "name": "客流地图",
+        "url": "/map.html"
+    },
+    {
+        "authCode": "PAS_030000",
+        "code": "pas03",
+        "name": "客流分析",
+        "url": "/manageIndex.html"
+    },
+    {
+        "authCode": "PAS_040000",
+        "code": "pas04",
+        "name": "配置管理",
+        "url": "/configManage.html"
+    }
+]

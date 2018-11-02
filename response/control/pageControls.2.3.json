@@ -26,7 +26,19 @@
                 "data": null,
                 "details": [
                     {
+                        "endPeriod": "13:59",
+                        "startPeriod": "00:00",
+                        "thresholdMax": 0.8,
+                        "thresholdMin": 0.4
+                    },
+                    {
                         "endPeriod": "23:59",
+                        "startPeriod": "00:00",
+                        "thresholdMax": 0.8,
+                        "thresholdMin": 0.4
+                    },
+                    {
+                        "endPeriod": "33:59",
                         "startPeriod": "00:00",
                         "thresholdMax": 0.8,
                         "thresholdMin": 0.4
