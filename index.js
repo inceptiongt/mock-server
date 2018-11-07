@@ -34,8 +34,8 @@ app.use('/pas', pas)
 
 //默认其他接口直接返回
 app.all('*', function(req, res, next) {
-  // res.status(200).send("ojbk")
-  res.sendStatus(500)
+  res.status(200).send(JSON.stringify({data: 'OJBK'}))
+  // res.sendStatus(500)
 })
 
 app.listen(3000, function () {
