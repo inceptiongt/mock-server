@@ -14,7 +14,7 @@ var pas = require("./router/pas")
 
 //allow custom header and CORS
 app.all('*',function (req, res, next) {
-    console.log(req.path)
+    console.log(req.method, req.path)
     res.header('Access-Control-Allow-Origin', '*');
     res.header('Access-Control-Allow-Headers', 'Content-Type, Content-Length, Authorization, Accept, X-Requested-With , yourHeaderFeild');
     res.header('Access-Control-Allow-Methods', 'PUT, POST, GET, DELETE, OPTIONS');
@@ -34,8 +34,8 @@ app.use('/pas', pas)
 
 //默认其他接口直接返回
 app.all('*', function(req, res, next) {
-  // res.status(200).send("ojbk")
-  res.sendStatus(500)
+  res.status(200).send("ojbk")
+  // res.sendStatus(500)
 })
 
 app.listen(3000, function () {
