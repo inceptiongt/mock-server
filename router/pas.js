@@ -39,6 +39,17 @@ app.get("/modules/region/findAllRegions.do", function (req, res) {
     })
 });
 
+app.get("/modules/region/findRegionInfo.do", function (req, res) {
+    fs.readFile("./response/pas/findRegionInfo.json", function(e, d){
+        res.json(JSON.parse(d))
+    })
+});
+app.get("/modules/organize/getPointTree.do", function (req, res) {
+    fs.readFile("./response/pas/getPointTree.json", function(e, d){
+        res.json(JSON.parse(d))
+    })
+});
+
 app.get('/modules/organize/getCameraTree.do', function (req, res) {
     var body = req.query
     var { indexCode } = body

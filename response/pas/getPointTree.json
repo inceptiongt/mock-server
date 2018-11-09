@@ -1,0 +1,71 @@
+{
+    "response": {
+        "total": 6,
+        "success": true,
+        "count": 0,
+        "errorCode": "",
+        "list": [
+            {
+                "deviceType": 0,
+                "latitude": "",
+                "name": "1_新楠旅店_999097",
+                "pId": "",
+                "id": "REGION_7",
+                "type": "REGION_INFO",
+                "longitude": "",
+                "seqIdx": 0
+            },
+            {
+                "deviceType": 0,
+                "latitude": "",
+                "name": "2_江门市信益测试单位_D2ebbd2a20eac56a46dce2a31820dfc5a",
+                "pId": "",
+                "id": "REGION_6",
+                "type": "REGION_INFO",
+                "longitude": "",
+                "seqIdx": 0
+            },
+            {
+                "deviceType": 0,
+                "latitude": "",
+                "name": "2_江门市信益测试单位_D2ebbd2a20eac56a46dce2a31820dfc5a",
+                "pId": "",
+                "id": "REGION_5",
+                "type": "REGION_INFO",
+                "longitude": "",
+                "seqIdx": 0
+            },
+            {
+                "deviceType": 2,
+                "latitude": "",
+                "name": "总共设备",
+                "pId": "REGION_7",
+                "id": "CAMERA_27",
+                "type": "CAMERA_INFO",
+                "longitude": "",
+                "seqIdx": 0
+            },
+            {
+                "deviceType": 2,
+                "latitude": "",
+                "name": "客流",
+                "pId": "REGION_6",
+                "id": "CAMERA_26",
+                "type": "CAMERA_INFO",
+                "longitude": "",
+                "seqIdx": 0
+            },
+            {
+                "deviceType": 2,
+                "latitude": "",
+                "name": "fake_device",
+                "pId": "REGION_5",
+                "id": "CAMERA_25",
+                "type": "CAMERA_INFO",
+                "longitude": "",
+                "seqIdx": 0
+            }
+        ],
+        "message": ""
+    }
+}
